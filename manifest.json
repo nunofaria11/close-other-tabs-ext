@@ -2,6 +2,8 @@
     "name": "Close other tabs",
     "version": "1.0",
     "description": "Browser extension to close other tabs",
+    "author": "Nuno Faria",
+    "homepage_url": "https://github.com/nunofaria11/close-other-tabs-ext",
     "manifest_version": 2,
     "permissions": [
         "contextMenus",
