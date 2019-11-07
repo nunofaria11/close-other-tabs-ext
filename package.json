@@ -1,0 +1,32 @@
+{
+  "name": "close-other-tabs-ext",
+  "version": "1.0.0",
+  "description": "Close other tabs browser extension",
+  "main": "main.js",
+  "scripts": {
+    "build": "node npm-scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunofaria11/close-other-tabs-ext.git"
+  },
+  "keywords": [
+    "extension",
+    "tabs",
+    "chrome",
+    "firefox",
+    "browser",
+    "close"
+  ],
+  "author": "Nuno Faria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunofaria11/close-other-tabs-ext/issues"
+  },
+  "homepage": "https://github.com/nunofaria11/close-other-tabs-ext#readme",
+  "dependencies": {
+    "archiver": "^3.1.1",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6"
+  }
+}
