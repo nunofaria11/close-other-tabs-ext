@@ -4,7 +4,9 @@
   "description": "Close other tabs browser extension",
   "main": "main.js",
   "scripts": {
-    "build": "node npm-scripts/build.js"
+    "build": "node npm-scripts/build.js",
+    "deploy": "node npm-scripts/deploy.js",
+    "build-deploy": "npm run build && npm run deploy"
   },
   "repository": {
     "type": "git",
@@ -26,6 +28,7 @@
   "homepage": "https://github.com/nunofaria11/close-other-tabs-ext#readme",
   "dependencies": {
     "archiver": "^3.1.1",
+    "chrome-webstore-upload": "^0.2.2",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6"
   }
