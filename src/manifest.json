@@ -1,6 +1,6 @@
 {
     "name": "Close other tabs",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Browser extension to close other tabs",
     "author": "Nuno Faria",
     "homepage_url": "https://github.com/nunofaria11/close-other-tabs-ext",
