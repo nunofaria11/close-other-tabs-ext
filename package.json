@@ -1,6 +1,6 @@
 {
   "name": "close-other-tabs-ext",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Close other tabs browser extension",
   "main": "main.js",
   "scripts": {
