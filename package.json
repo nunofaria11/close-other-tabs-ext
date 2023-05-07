@@ -28,7 +28,7 @@
   "homepage": "https://github.com/nunofaria11/close-other-tabs-ext#readme",
   "dependencies": {
     "archiver": "^3.1.1",
-    "chrome-webstore-upload": "^0.2.2",
+    "chrome-webstore-upload": "^1.0.0",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6"
   }
